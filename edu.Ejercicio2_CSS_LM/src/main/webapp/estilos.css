@@ -1,0 +1,31 @@
+/* Ruben Bernal Ramos, CSI1*/
+
+.margen{
+	margin-left: 5%;
+}
+.titulo{
+	font-size: 2em;
+	margin-bottom: 0,5em;
+}
+.contenedor{
+	width: 80%;
+	max-width: 950px;
+	background-color: gray;
+	border-style:solid;
+	border-color: red;
+	color: white;
+}
+.enlaces{
+	text-decoration: none;
+	color: blue;
+}
+.enlaces:hover{
+	color: black;
+}
+.articulo{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: red;
+}
+.azul{
+	color: blue;
+}
